@@ -12,3 +12,5 @@ Saved
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.exe
+bin/Development/WindowsNoEditor/PlatformGameUdemy/Content/Paks/PlatformGameUdemy-WindowsNoEditor.pak
