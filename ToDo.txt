@@ -1,0 +1,8 @@
+FIX: Fix Hitpoints,
+DESIGN: BigVegas must spawn with 1 HP
+DESIGN: GreenDragon must spawn with 4 HP
+DESIGN: Only BigVegas must be able to obtain full HP invincibility, GreenDragon can't collect HP with full health
+DEV: GreenDragon's Forward Dash
+DEV: GreenDragon's Backward Dodge (DodgeLeft+DodgeRight)
+DEV: Progress Save System and continue game
+DEV: Level select in main menu, depending on save system.
