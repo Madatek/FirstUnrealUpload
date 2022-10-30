@@ -1,3 +1,4 @@
 DEV: GreenDragon's Forward Dash
+DEV: Double jump
 DEV: GreenDragon's Backward Dodge (DodgeLeft+DodgeRight)
 DEV: Level select in main menu, depending on save system.
