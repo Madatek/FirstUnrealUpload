@@ -1,4 +1,4 @@
-DEV: GreenDragon's Forward Dash, while active turning must be restricted, camera is snapped to GreenDragon's back and GreenDragon's head deals damage
+DEV: GreenDragon's Forward Dash, while active turning must be restricted, camera is snapped to GreenDragon's back
 DEV: GreenDragon glide
 DEV: GreenDragon's double jump
 DEV: GreenDragon's Fire attack
