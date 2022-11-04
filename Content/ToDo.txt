@@ -1,4 +1,5 @@
 DEV: GreenDragon's Forward Dash, while active turning must be restricted, camera is snapped to GreenDragon's back and GreenDragon's head deals damage
-DEV: Double jump
-DEV: GreenDragon's Backward Dodge (DodgeLeft+DodgeRight)
+DEV: GreenDragon glide
+DEV: GreenDragon's double jump
+DEV: GreenDragon's Fire attack
 DEV: Level select in main menu, depending on save system.
